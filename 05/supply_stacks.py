@@ -29,6 +29,4 @@ for instruction in instructions:
 
 # for instruction in filtered_instructions:
 
-
-#
 print(stacks)
